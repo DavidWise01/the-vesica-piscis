@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1921
+slug  : the-vesica-piscis
+seal  : a20d6e043f17aac866dfdd13ca335eafdcb9d974104fa29bc0b1b662e3667879
+prev  : 46728bbd4893b3c1dc9e406fd0cbc124fa4581e9d7c37f36f9d552a996207a78
+link  : 16651075227050e62a3d2d0290817d158cbd7dbf5e68d21f1c391f592ce6f58a
+head  : 16651075227050e62a3d2d0290817d158cbd7dbf5e68d21f1c391f592ce6f58a
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
